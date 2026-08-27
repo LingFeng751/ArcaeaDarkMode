@@ -26,8 +26,9 @@
 
 ## 下載方式
 * 從[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)獲取  
-* 從[123網盤](https://www.123684.com/s/HOGzTd-lY27H)中獲取（每日每賬號1GB下載不限速）  
-* 從[123網盤備用鏈接](https://www.123684.com/s/HOGzTd-7Y27H)中獲取（每日每賬號1GB下載不限速）  
+* 從[123網盤](https://1845241401.share.123pan.cn/123pan/HOGzTd-G9kcH)中獲取（每日每賬號1GB下載不限速）
+* 『来自123云盘用户的分享』链接: https://www.123684.com/s/HOGzTd-lY27H
+复制这段内容打开「123云盘APP 即可获取」
 * 從[百度網盤](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145)中獲取（提取碼：`1145`，<mark><ins>**無SVIP不推薦**</mark></ins>）
 
 ## 使用方法（安卓｜Android）
@@ -41,12 +42,12 @@
 ## 我應選擇Releases中Assets裏的哪個？
 | 文件名 | 說明  |
 |:------|:------|
-| `iOS.ArcDark.[版本號].ipa.zip` | iOS版Arcaea暗改整合包，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新，<mark><ins>**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
-| `Android.ArcDark.[版本號]c.apk` | 安卓C版Arcaea暗改包，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新 |
-| `iOS.Arcaea.[版本號].Original.ipa` | 原版iOS砸殼安裝包，未經任何修改，安裝後與App Store版本相同（無法使用應用內購買），<mark><ins>**如果你不想自己修改貼圖，這不是你應該下載的版本**</mark></ins> |
+| `Arcaea.[版本號].iOS.Original.ipa` | 原版iOS砸殼安裝包，未經任何修改，安裝後與App Store版本相同（無法使用應用內購買），<mark><ins>**如果你不想自己修改貼圖，這不是你應該下載的版本**</mark></ins> |
+| `ArcDark.[版本號].iOS.zip` | iOS版Arcaea暗改整合包，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新，<mark><ins>**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `ArcDark.[版本號]c.Android.apk` | 安卓C版Arcaea暗改包，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新 |
 | **測試版本** |  |
-| `Android.ArcDark.[版本號]c.BetaX.apk` | 安卓C版Arcaea<mark><ins>**測試版**</mark></ins>暗改包，<mark><ins>**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**</mark></ins>，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新（會覆蓋掉正式版） |
-| `iOS.ArcDark.[版本號].BetaX.ipa.zip` | iOS版Arcaea<mark><ins>**測試版**</mark></ins>暗改整合包，<mark><ins>**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**</mark></ins>，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新（會覆蓋掉正式版），<mark><ins>**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `ArcDark.[版本號]c.BetaX.Android.apk` | 安卓C版Arcaea<mark><ins>**測試版**</mark></ins>暗改包，<mark><ins>**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**</mark></ins>，可以和官方版Arcaea共存安裝，下載後可直接安裝，支援覆蓋更新（會覆蓋掉正式版） |
+| `ArcDark.[版本號].BetaX.iOS.zip` | iOS版Arcaea<mark><ins>**測試版**</mark></ins>暗改整合包，<mark><ins>**存在未經穩定性測試的修改內容，它們通常將在下一個版本PO**</mark></ins>，包含ipa和背景貼圖，可以和官方版Arcaea共存安裝，支援覆蓋更新（會覆蓋掉正式版），<mark><ins>**安裝方法需要參考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 
 ## 註意事項
 1. 本項目一般在官方更新PO當天的下午13:00左右更新  
