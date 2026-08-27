@@ -27,8 +27,8 @@
 
 ## Download Methods
 * Get it from [Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)
-* Get it from [123 Pan](https://www.123684.com/s/HOGzTd-lY27H) (1GB download per account per day with no speed limit)
-* Get it from [Backup Link of 123 Pan](https://www.123684.com/s/HOGzTd-7Y27H) (1GB download per account per day with no speed limit)
+* Get it from [123 Cloud Disk](https://1845241401.share.123pan.cn/123pan/HOGzTd-G9kcH) (10GB per month for web access and 20GB per month for client access, with no download speed limits)
+* Get it from [Backup Link of 123 Cloud Disk](https://www.123684.com/s/HOGzTd-7Y27H) (10GB per month for web access and 20GB per month for client access, with no download speed limits)
 * Get it from [Baidu Netdisk](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145) (Extraction code: `1145`, <mark><ins>**Not recommended for non-SVIP users**</mark></ins>) 
 
 ## Usage Method (Android)
@@ -46,8 +46,8 @@ Choose a suitable download method from the download methods mentioned above, and
 | `ArcDark.[Version Number].iOS.zip` | This is the iOS version of the Arcaea dark theme integration package, including the ipa and background images. It can be installed alongside the official version of Arcaea and supports over-the-air updates. <mark><ins>**Please refer to the [tutorial](https://www.bilibili.com/video/BV1VrQtYgEQg/) for installation instructions.**</mark></ins> |
 | `ArcDark.[Version Number]c.Android.apk` | This is the Android <mark><ins>**China version**</mark></ins> of the Arcaea dark theme package. It can be installed alongside the official version of Arcaea and can be directly installed after downloading. It supports over-the-air updates. |
 | **Beta Version** |  |
-| `ArcDark.[Version Number]c.Android.BetaX.apk` | Android <mark><ins>**China version**</mark></ins> of Arcaea <mark><ins>**beta version**</mark></ins> dark mod package, <mark><ins>**contains untested modifications that will usually be released in the next version**</mark></ins>, can be installed alongside the official version of Arcaea, can be directly installed after download, supports overwrite update (will overwrite the official version) |
-| `ArcDark.[Version Number].iOS.BetaX.ipa.zip` | iOS version of Arcaea <mark><ins>**beta version**</mark></ins> dark mod integrated package, <mark><ins>**contains untested modifications that will usually be released in the next version**</mark></ins>, includes ipa and background images, can be installed alongside the official version of Arcaea, supports overwrite update (will overwrite the official version), <mark><ins>**installation method needs to refer to [tutorial](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `ArcDark.[Version Number]c.BetaX.Android.apk` | Android <mark><ins>**China version**</mark></ins> of Arcaea <mark><ins>**beta version**</mark></ins> dark mod package, <mark><ins>**contains untested modifications that will usually be released in the next version**</mark></ins>, can be installed alongside the official version of Arcaea, can be directly installed after download, supports overwrite update (will overwrite the official version) |
+| `ArcDark.[Version Number].BetaX.iOS.zip` | iOS version of Arcaea <mark><ins>**beta version**</mark></ins> dark mod integrated package, <mark><ins>**contains untested modifications that will usually be released in the next version**</mark></ins>, includes ipa and background images, can be installed alongside the official version of Arcaea, supports overwrite update (will overwrite the official version), <mark><ins>**installation method needs to refer to [tutorial](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 
 ## Notes
 1. This project is generally updated around 13:00(GMT+8) on the day of the official update release.
