@@ -41,9 +41,9 @@
 ## 我应选择Releases中Assets里的哪个？
 | 文件名 | 说明  |
 |:------|:------|
+| `ArcDark.[版本号].iOS.Original.ipa` | 原版iOS砸壳安装包，未经任何修改，安装后与App Store版本相同（无法使用应用内购买），<mark><ins>**如果你不想自己修改贴图，这不是你应该下载的版本**</mark></ins> |
 | `ArcDark.[版本号].iOS.zip` | iOS版Arcaea暗改整合包，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新，<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 | `ArcDark.[版本号]c.Android.apk` | 安卓版Arcaea暗改包，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新 |
-| `ArcDark.[版本号].iOS.Original.ipa` | 原版iOS砸壳安装包，未经任何修改，安装后与App Store版本相同（无法使用应用内购买），<mark><ins>**如果你不想自己修改贴图，这不是你应该下载的版本**</mark></ins> |
 | **测试版本** |  |
 | `ArcDark.[版本号]c.Android.BetaX.apk` | 安卓C版Arcaea<mark><ins>**测试版**</mark></ins>暗改包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新（会覆盖掉正式版） |
 | `ArcDark.[版本号].iOS.BetaX.zip` | iOS版Arcaea<mark><ins>**测试版**</mark></ins>暗改整合包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新（会覆盖掉正式版），<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
