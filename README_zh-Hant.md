@@ -22,13 +22,12 @@
 * iOS 12.4+（連接至PC或macOS）
 * iOS 14.0~17.0<sup>[檢視受支援的iOS版本](Trollstore_Support_Version.md)</sup>（使用[Trollstore](https://blog.6ziz.com/trollstore)）
 * iOS 12.4+（安裝了[AFC2](https://www.i4.cn/news_detail_1623.html)和[APPsync](https://www.i4.cn/news_detail_21968.html)補丁的[越獄](https://www.i4.cn/index_search.action?type=3&model=1&k=%E8%B6%8A%E7%8B%B1)的設備）
-* Android 
+* Android 7+ 
 
 ## 下載方式
 * 從[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)獲取  
-* 從[123網盤](https://1845241401.share.123pan.cn/123pan/HOGzTd-G9kcH)中獲取（每日每賬號1GB下載不限速）
-* 『来自123云盘用户的分享』链接: https://www.123684.com/s/HOGzTd-lY27H
-复制这段内容打开「123云盘APP 即可获取」
+* 從[123網盤](https://1845241401.share.123pan.cn/123pan/HOGzTd-G9kcH)中獲取（每月每賬號網頁端10GB、客戶端20GB下載不限速）
+* 從[123網盤備用鏈接](https://www.123684.com/s/HOGzTd-lY27H)中獲取（每月每賬號網頁端10GB、客戶端20GB下載不限速）
 * 從[百度網盤](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145)中獲取（提取碼：`1145`，<mark><ins>**無SVIP不推薦**</mark></ins>）
 
 ## 使用方法（安卓｜Android）
