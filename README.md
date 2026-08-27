@@ -22,7 +22,7 @@
 * iOS 12.4+（连接至PC或macOS）
 * iOS 14.0~17.0<sup>[查看受支持的iOS版本](Trollstore_Support_Version.md)</sup>（使用[Trollstore](https://blog.6ziz.com/trollstore)）
 * iOS 12.4+（安装了[AFC2](https://www.i4.cn/news_detail_1623.html)和[APPsync](https://www.i4.cn/news_detail_21968.html)补丁的[越狱](https://www.i4.cn/index_search.action?type=3&model=1&k=%E8%B6%8A%E7%8B%B1)的设备）
-* Android 
+* Android 7+ 
 
 ## 下载方式
 * 从[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)获取  
@@ -41,12 +41,12 @@
 ## 我应选择Releases中Assets里的哪个？
 | 文件名 | 说明  |
 |:------|:------|
-| `iOS.ArcDark.[版本号].ipa.zip` | iOS版Arcaea暗改整合包，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新，<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
-| `Android.ArcDark.[版本号]c.apk` | 安卓版Arcaea暗改包，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新 |
-| `iOS.Arcaea.[版本号].Original.ipa` | 原版iOS砸壳安装包，未经任何修改，安装后与App Store版本相同（无法使用应用内购买），<mark><ins>**如果你不想自己修改贴图，这不是你应该下载的版本**</mark></ins> |
+| `ArcDark.[版本号].iOS.zip` | iOS版Arcaea暗改整合包，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新，<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `ArcDark.[版本号]c.Android.apk` | 安卓版Arcaea暗改包，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新 |
+| `ArcDark.[版本号].iOS.Original.ipa` | 原版iOS砸壳安装包，未经任何修改，安装后与App Store版本相同（无法使用应用内购买），<mark><ins>**如果你不想自己修改贴图，这不是你应该下载的版本**</mark></ins> |
 | **测试版本** |  |
-| `Android.ArcDark.[版本号]c.BetaX.apk` | 安卓C版Arcaea<mark><ins>**测试版**</mark></ins>暗改包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新（会覆盖掉正式版） |
-| `iOS.ArcDark.[版本号].BetaX.ipa.zip` | iOS版Arcaea<mark><ins>**测试版**</mark></ins>暗改整合包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新（会覆盖掉正式版），<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `ArcDark.[版本号]c.Android.BetaX.apk` | 安卓C版Arcaea<mark><ins>**测试版**</mark></ins>暗改包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新（会覆盖掉正式版） |
+| `ArcDark.[版本号].iOS.BetaX.zip` | iOS版Arcaea<mark><ins>**测试版**</mark></ins>暗改整合包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新（会覆盖掉正式版），<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 
 ## 注意事项
 1. 本项目一般在官方更新发布当天的下午13:00左右更新  
