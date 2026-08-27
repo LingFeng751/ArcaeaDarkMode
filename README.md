@@ -26,8 +26,8 @@
 
 ## 下载方式
 * 从[Releases](https://github.com/LingFeng751/ArcaeaDarkMode/releases)获取  
-* 从[123网盘](https://www.123684.com/s/HOGzTd-lY27H)中获取（每日每账号1GB下载不限速）  
-* 从[123网盘备用链接](https://www.123684.com/s/HOGzTd-7Y27H)中获取（每日每账号1GB下载不限速）  
+* 从[123网盘](https://1845241401.share.123pan.cn/123pan/HOGzTd-G9kcH)中获取（每月每账号网页端10GB、客户端20GB下载不限速）
+* 从[123网盘备用链接](https://www.123684.com/s/HOGzTd-lY27H)中获取（每月每账号网页端10GB、客户端20GB下载不限速）
 * 从[百度网盘](https://pan.baidu.com/s/1BI6dKJd5P8EG7FsV6eh_rA?pwd=1145)中获取（提取码：`1145`，<mark><ins>**无SVIP不推荐**</mark></ins>）
 
 ## 使用方法（安卓｜Android）
@@ -45,8 +45,8 @@
 | `ArcDark.[版本号].iOS.zip` | iOS版Arcaea暗改整合包，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新，<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 | `ArcDark.[版本号]c.Android.apk` | 安卓版Arcaea暗改包，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新 |
 | **测试版本** |  |
-| `ArcDark.[版本号]c.Android.BetaX.apk` | 安卓C版Arcaea<mark><ins>**测试版**</mark></ins>暗改包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新（会覆盖掉正式版） |
-| `ArcDark.[版本号].iOS.BetaX.zip` | iOS版Arcaea<mark><ins>**测试版**</mark></ins>暗改整合包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新（会覆盖掉正式版），<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
+| `ArcDark.[版本号]c.BetaX.Android.apk` | 安卓C版Arcaea<mark><ins>**测试版**</mark></ins>暗改包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，可以和官方版Arcaea共存安装，下载后可直接安装，支持覆盖更新（会覆盖掉正式版） |
+| `ArcDark.[版本号].BetaX.iOS.zip` | iOS版Arcaea<mark><ins>**测试版**</mark></ins>暗改整合包，<mark><ins>**存在未经稳定性测试的修改内容，它们通常将在下一个版本发布**</mark></ins>，包含ipa和背景贴图，可以和官方版Arcaea共存安装，支持覆盖更新（会覆盖掉正式版），<mark><ins>**安装方法需要参考[教程](https://www.bilibili.com/video/BV1VrQtYgEQg/)**</mark></ins> |
 
 ## 注意事项
 1. 本项目一般在官方更新发布当天的下午13:00左右更新  
